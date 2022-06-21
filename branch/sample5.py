@@ -12,3 +12,5 @@ elif bmi > 23.9 and bmi <= 27.9:
     print("评测结果：过重")
 else:
     print("评测结果：肥胖")
+
+

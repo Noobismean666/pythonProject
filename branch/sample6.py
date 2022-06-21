@@ -12,3 +12,16 @@ else:
         print("您的高压过低，请加强锻炼，提高心肺功能")
     else:
         print("您的血压已经超标，请尽快就医")
+
+
+# 定义变量X接收输入的一个数
+x = int(input("请输入第一个数"))
+# 定义变量y接收输入的第二个数
+y = int(input("请输入第二个数"))
+# 判断x是否等于y
+if (x==y):
+    print("两数相同")
+elif (x>y):
+    print("较大数为：",x)
+else:
+    print(y)
