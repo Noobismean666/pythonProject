@@ -10,3 +10,16 @@ while i < 5:
 
 
 
+sum1 = 0
+num1 = 1
+# 循环条件
+while(num1<1000):
+    # 判断条件
+    if(num1 % 2 != 0):
+        sum1 = sum1 +num1
+    num1 = num1 + 1
+print(sum1)
+
+
+
+
