@@ -31,4 +31,3 @@ print(t6)
 t4 = ('see',)*2
 print(t4)
 
-//123
